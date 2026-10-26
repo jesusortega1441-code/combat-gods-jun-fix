@@ -1,0 +1,12 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="combatgods"
+version="1.0.0"
+displayName="Combat Gods"
+authors="Zanvik"
+description='''
+Mod de Combat Gods optimizado para compilación en GitHub Actions.
+'''
